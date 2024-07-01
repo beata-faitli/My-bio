@@ -16,6 +16,24 @@ and communicating effectively with diverse teams. My goal is to
 improve patient care and outcomes through innovative data
 solutions.
 
+Education
+
+London Southbank University
+BSc (Hons) in Children’s Nursing
+Completed in 2012
+
+LSE - London School of Economics
+Career Accelerator Course in
+Data Analytics
+Expected completion in
+November 2024
+
+Technical Skills
+Programming Languages: Phyton and R
+Data Analysis Tools: Excel, SQL, Tableau
+Data Visualisation: Creating visual presentations
+and dashboards
+
 Work Experience
 
 Nov 2019- Present - Agency Nurse
